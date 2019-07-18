@@ -1,0 +1,5 @@
+{
+    "require": {
+        "rogervila/array-diff-multidimensional": "^1.0"
+    }
+}
